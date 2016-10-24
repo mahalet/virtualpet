@@ -1,0 +1,6 @@
+ #Eclipse things
+/.classpath
+/.project
+/.settings/
+/bin
+.metadata
